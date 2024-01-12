@@ -22,8 +22,8 @@ To view the dashboard:
 3. Explore the dashboard to gain insights into your e-commerce data.
 
 ## Screenshots
-![Dashboard Screenshot](/path/to/screenshot.jpg)
-*Include a few screenshots of your dashboard here*
+![](https://github.com/NavneetRajSingh/Ecommerce-sales-Dashboard/blob/main/Sales%20Dashboard%20Image.png)
+
 
 ## Contributing
 Feedback and contributions to this project are welcome. Please read [CONTRIBUTING.md](/path/to/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
